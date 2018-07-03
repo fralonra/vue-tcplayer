@@ -1,0 +1,22 @@
+{
+  "name": "vue-tcplayer",
+  "version": "0.1.0",
+  "description": "Vue component for TcPlayer",
+  "main": "./src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fralonra/vue-tcplayer.git"
+  },
+  "keywords": [
+    "vue",
+    "TcPlayer"
+  ],
+  "author": "zoron (https://github.com/fralonra/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fralonra/vue-tcplayer/issues"
+  },
+  "homepage": "https://github.com/fralonra/vue-tcplayer#readme"
+}
