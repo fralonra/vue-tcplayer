@@ -1,7 +1,7 @@
 # Vue-TcPlayer
 
 [![Build Status](https://travis-ci.org/fralonra/vue-tcplayer.svg?branch=master)](https://travis-ci.org/fralonra/vue-tcplayer)
-[![npm version](https://img.shields.io/npm/v/vue-tcplayer.svg)](https://www.npmjs.com/package/vue-tcplayer)
+[![npm version](https://img.shields.io/npm/v/vue-tcplayer.svg)](https://www.npmjs.com/package/vue-tcplayer) [![Greenkeeper badge](https://badges.greenkeeper.io/fralonra/vue-tcplayer.svg)](https://greenkeeper.io/)
 
 简单封装了腾讯 TCPlayer Lite 的非官方 [Vue](https://github.com/vuejs/vue) 组件。
 [官方文档](https://cloud.tencent.com/document/product/267/7479)
