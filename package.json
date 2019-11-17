@@ -1,6 +1,6 @@
 {
   "name": "vue-tcplayer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vue component for TcPlayer",
   "main": "./src/index.js",
   "scripts": {
